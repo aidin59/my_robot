@@ -35,6 +35,8 @@ $ source install/setup.bash
 
 5- run launch file:
 $ ros2 launch my_robot sim.launch.py
+or
+$ ros2 launch my_robot sim.launch.py world:=./src/my_robot/world.world
 
 you can control the robot with teleop_node with joy or keyboard …
 for example open a new terminal and run this command:
