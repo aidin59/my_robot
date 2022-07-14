@@ -9,8 +9,7 @@ Hardware :
 3. DC motors + drivers
 4. 3 ultrasound sensor
 5. camera
-6. scanner laser (optional)
-
+6. scanner laser (optional) a little expensive but make job easier:)
 
 Software: 
 ROS2 ,  C++, Python,  
