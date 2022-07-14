@@ -24,6 +24,7 @@ you should have Ubuntu, ros2 , gazebo, colcon installed
 
 1- download the file and Extract to your “work_space/src”(make a folder with any name with sub-folder src) 
 ‘’’’’’’’’’’’’’’important change the file name to my_robot
+
 2- open a terminal move to your work_space folder
 aidin@aidin-HP-Pavilion-dv7-Notebook-PC:~/Desktop/ww$    “in my case”
 
@@ -39,4 +40,4 @@ $ ros2 launch my_robot sim.launch.py
 you can control the robot with teleop_node with joy or keyboard …
 for example open a new terminal and run this command:
 $ ros2 run teleop_twist_keyboard teleop_twist_keyboard # my_robot
-diff_robot
+
